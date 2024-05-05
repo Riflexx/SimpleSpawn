@@ -1,0 +1,7 @@
+name: SimpleSpawn
+version: '${project.version}'
+main: ru.don1x.simplespawn.SimpleSpawn
+api-version: '1.16'
+commands:
+  spawn:
+  setspawn:

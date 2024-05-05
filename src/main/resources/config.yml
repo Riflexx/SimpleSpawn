@@ -1,0 +1,6 @@
+spawn: world, 0, 0, 0
+settings:
+  tpOnJoin: true
+messages:
+  setspawn: "&aВы успешно поставили спавн на своей точке"
+  spawn: "&aВы были телепортированы на спавн"
